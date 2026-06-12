@@ -4,6 +4,22 @@
 <br />
 <p><strong>DarqlineMP</strong> is a community multiplayer platform currently in early development.</p>
 <p>The project is focused on building a clean foundation for multiplayer server development,<br />scripting, tooling, documentation, and community-hosted experiences.</p>
+<p align="center">
+<p align="center">
+  <a href="https://discord.gg/BmXUarnZkZ">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://t.me/darqlinemp">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.youtube.com/@DarqlineMP">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.tiktok.com/@darqlinemp">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+</p>
+</p>
 <br />
 <br />
 <h2>Status</h2>
