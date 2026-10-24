@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7130d03f-ab2e-4876-9e11-7fa40b15b604" alt="DarqlineMP" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/7130d03f-ab2e-4876-9e11-7fa40b15b604" />
+    <img src="https://raw.githubusercontent.com/DarqlineMP/.github/main/profile/logo-light.png" alt="DarqlineMP" />
+  </picture>
 </p>
 
 <div align="center">
