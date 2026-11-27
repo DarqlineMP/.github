@@ -9,25 +9,11 @@
 
 ### Multiplayer for Grand Theft Auto: San Andreas – The Definitive Edition
 
-**Open technical test.** Join the official Freeroam server on Windows. No invitation required.
+Free multiplayer on PC, in public alpha. Play on the official server, or host your own with game modes in Lua.
 
-**[Download the launcher](https://darqline.com/download)** · [Documentation](https://docs.darqline.com/)
+**[Download](https://darqline.com/download)** · [Documentation](https://docs.darqline.com/) · [Server](https://github.com/DarqlineMP/server) · [Launcher](https://github.com/DarqlineMP/launcher) · [Bug reports](https://github.com/DarqlineMP/releases/issues)
 
-</div>
-
-## Host a server
-
-Run your own server on Windows or Linux and build game modes in Lua. The docs walk you through [running a server](https://docs.darqline.com/start/) and [writing your first resource](https://docs.darqline.com/start/first-resource).
-
-## Repositories
-
-- [Server](https://github.com/DarqlineMP/server) — open-source dedicated server, Lua API, and example resources.
-- [Launcher](https://github.com/DarqlineMP/launcher) — source code for the Windows launcher that installs and updates the game client.
-- [Releases](https://github.com/DarqlineMP/releases) — official downloads, release notes, and [player bug reports](https://github.com/DarqlineMP/releases/issues).
-
-## Community
-
-<div align="center">
+<br />
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/BmXUarnZkZ)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/darqlinemp)
@@ -35,8 +21,9 @@ Run your own server on Windows or Linux and build game modes in Lua. The docs wa
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://www.tiktok.com/@darqlinemp)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/darqlinemp)
 
+<br />
+
+<sub>DarqlineMP is a free, non-commercial project developed independently of Rockstar Games and Take-Two Interactive.<br />
+Grand Theft Auto and Grand Theft Auto: San Andreas are trademarks of Take-Two Interactive Software, Inc.</sub>
+
 </div>
-
----
-
-<sub>DarqlineMP is a free, non-commercial project developed independently of Rockstar Games and Take-Two Interactive. Grand Theft Auto and Grand Theft Auto: San Andreas are trademarks of Take-Two Interactive Software, Inc.</sub>
