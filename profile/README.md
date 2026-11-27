@@ -9,9 +9,9 @@
 
 ### Multiplayer for Grand Theft Auto: San Andreas – The Definitive Edition
 
-Free multiplayer on PC, in public alpha. Play on the official server, or host your own with game modes in Lua.
+DarqlineMP is now in public alpha on Windows. Play for free on the official server or host your own and write game modes in Lua.
 
-**[Download](https://darqline.com/download)** · [Documentation](https://docs.darqline.com/) · [Server](https://github.com/DarqlineMP/server) · [Launcher](https://github.com/DarqlineMP/launcher) · [Bug reports](https://github.com/DarqlineMP/releases/issues)
+**[Download](https://darqline.com/download)** · [Documentation](https://docs.darqline.com/) · [Server](https://github.com/DarqlineMP/server) · [Launcher source](https://github.com/DarqlineMP/launcher) · [Bug reports](https://github.com/DarqlineMP/releases/issues)
 
 <br />
 
